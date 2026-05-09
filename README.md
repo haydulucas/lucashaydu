@@ -1,4 +1,4 @@
-### E ae! sou Éric Ranzani.
+### E ae! sou Lucas Haydu.
 Desenvolvedor Full-Stack proativo, com experiência em sustentação de sistemas e no desenvolvimento de aplicações de Front-end e Back-end.
 - 🎓 Formado em informática para negócios na FATEC-SP
 
